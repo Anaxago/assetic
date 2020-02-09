@@ -1,17 +1,10 @@
 {
     "name": "anaxago/assetic",
-    "description": "Asset Management for PHP",
+    "description": "Asset Management for PHP - SF4 compatible",
     "keywords": [ "assets", "compression", "minification" ],
-    "homepage": "https://github.com/kriswallsmith/assetic",
+    "homepage": "https://github.com/Anaxago/assetic",
     "type": "library",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Kris Wallsmith",
-            "email": "kris.wallsmith@gmail.com",
-            "homepage": "http://kriswallsmith.net/"
-        }
-    ],
     "require": {
         "php": ">=5.3.1",
         "symfony/process": "~2.1|~3.0|~4.0|~4.1|~4.2|~4.3|~4.4"
